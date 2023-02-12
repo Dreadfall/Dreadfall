@@ -6,7 +6,7 @@ Some languages I program in:
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreadfall&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreadfall&show_icons=true&theme=dark)
 
 Okay my github read me could be a bit better organzied, but oh well, you know stuff about me now though, and thats the purpose of this. See ya later
 
